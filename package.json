@@ -9,7 +9,7 @@
   "dependencies": {
     "canvas": "^2.6.1",
     "discord.js": "^11.5.1",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "extenso": "^2.0.1",
     "fs": "^0.0.1-security",
     "jimp": "^0.9.3",
